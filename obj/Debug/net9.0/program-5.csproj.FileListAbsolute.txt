@@ -1,0 +1,28 @@
+C:\Users\edikf\OneDrive\Рабочий стол\Prog_corp\program-5\obj\Debug\net9.0\program-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edikf\OneDrive\Рабочий стол\Prog_corp\program-5\obj\Debug\net9.0\program-5.AssemblyInfoInputs.cache
+C:\Users\edikf\OneDrive\Рабочий стол\Prog_corp\program-5\obj\Debug\net9.0\program-5.AssemblyInfo.cs
+C:\Users\edikf\OneDrive\Рабочий стол\Prog_corp\program-5\obj\Debug\net9.0\program-5.csproj.CoreCompileInputs.cache
+C:\Users\edikf\OneDrive\Рабочий стол\Prog_corp\program-5\bin\Debug\net9.0\program-5.exe
+C:\Users\edikf\OneDrive\Рабочий стол\Prog_corp\program-5\bin\Debug\net9.0\program-5.deps.json
+C:\Users\edikf\OneDrive\Рабочий стол\Prog_corp\program-5\bin\Debug\net9.0\program-5.runtimeconfig.json
+C:\Users\edikf\OneDrive\Рабочий стол\Prog_corp\program-5\bin\Debug\net9.0\program-5.dll
+C:\Users\edikf\OneDrive\Рабочий стол\Prog_corp\program-5\bin\Debug\net9.0\program-5.pdb
+C:\Users\edikf\OneDrive\Рабочий стол\Prog_corp\program-5\obj\Debug\net9.0\program-5.dll
+C:\Users\edikf\OneDrive\Рабочий стол\Prog_corp\program-5\obj\Debug\net9.0\refint\program-5.dll
+C:\Users\edikf\OneDrive\Рабочий стол\Prog_corp\program-5\obj\Debug\net9.0\program-5.pdb
+C:\Users\edikf\OneDrive\Рабочий стол\Prog_corp\program-5\obj\Debug\net9.0\program-5.genruntimeconfig.cache
+C:\Users\edikf\OneDrive\Рабочий стол\Prog_corp\program-5\obj\Debug\net9.0\ref\program-5.dll
+C:\Users\user\Documents\program-5\bin\Debug\net9.0\program-5.exe
+C:\Users\user\Documents\program-5\bin\Debug\net9.0\program-5.deps.json
+C:\Users\user\Documents\program-5\bin\Debug\net9.0\program-5.runtimeconfig.json
+C:\Users\user\Documents\program-5\bin\Debug\net9.0\program-5.dll
+C:\Users\user\Documents\program-5\bin\Debug\net9.0\program-5.pdb
+C:\Users\user\Documents\program-5\obj\Debug\net9.0\program-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\program-5\obj\Debug\net9.0\program-5.AssemblyInfoInputs.cache
+C:\Users\user\Documents\program-5\obj\Debug\net9.0\program-5.AssemblyInfo.cs
+C:\Users\user\Documents\program-5\obj\Debug\net9.0\program-5.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\program-5\obj\Debug\net9.0\program-5.dll
+C:\Users\user\Documents\program-5\obj\Debug\net9.0\refint\program-5.dll
+C:\Users\user\Documents\program-5\obj\Debug\net9.0\program-5.pdb
+C:\Users\user\Documents\program-5\obj\Debug\net9.0\program-5.genruntimeconfig.cache
+C:\Users\user\Documents\program-5\obj\Debug\net9.0\ref\program-5.dll
